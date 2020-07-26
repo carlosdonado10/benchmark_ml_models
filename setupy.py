@@ -4,7 +4,7 @@ with open("README.md", 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='GeneralPurposePredictor',
+    name='benchmark_ml_models',
     version='0.0.1',
     author="Carlos Donado",
     author_email='cf.donado@hotmail.com',
